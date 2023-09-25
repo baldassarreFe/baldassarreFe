@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Federico 👋</h1>
-<h4 align="center">A Ph.D. student at KTH Stockholm</h3>
+<h4 align="center">A postdoc at Meta AI in Paris</h3>
 
 My research focuses on the <b>explainability</b> of deep learning, in other words, improving our understanding of modern
 learning systems, from their internal representations to the way they determine a prediction.
